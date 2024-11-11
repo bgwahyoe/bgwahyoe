@@ -1,4 +1,11 @@
 
+## 🚀 About Me
+I'm a full stack developer... InsyaAllah
+
+
+# Hi, I'm Wahyu Ahmad Yassin :)👋
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bg.wahyoe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyuahmadyassin) 
 
